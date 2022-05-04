@@ -1,0 +1,14 @@
+body {
+  background: #f9f8fe;
+  text-align: center;
+  align-content: center;
+}
+
+.container {
+  margin: 0 auto;
+  display: block;
+}
+
+a {
+  color: #9670f4;
+}

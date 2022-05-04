@@ -10,7 +10,7 @@ function App() {
         <h1>Dictionary</h1>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="sunrise" />
         </main>
         <footer className="text-center">
           <small>coded by Nina</small>
