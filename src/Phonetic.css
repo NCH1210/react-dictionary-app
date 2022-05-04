@@ -1,5 +1,5 @@
 .Phonetic {
-  margin: 20px 0;
+  margin: 20px 10px;
 }
 
 .Phonetic a {
@@ -7,7 +7,7 @@
   text-decoration: none;
   padding: 8px 15px;
   font-size: 13px;
-  margin-right: 10px;
+  margin: 10px 10px;
   font-weight: bold;
   border-radius: 20px;
   transition: all 150ms ease-in-out;
@@ -21,4 +21,5 @@
 .Phonetic .text {
   opacity: 0.5;
   font-weight: bold;
+  margin: 10px 10px;
 }
